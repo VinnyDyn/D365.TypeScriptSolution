@@ -132,6 +132,7 @@ interface Account_Base extends WebEntity {
   traversedpath?: string | null;
   utcconversiontimezonecode?: number | null;
   versionnumber?: number | null;
+  vnb_custom_field?: string | null;
   websiteurl?: string | null;
 }
 interface Account_Relationships {
@@ -319,6 +320,7 @@ interface Account_Select {
   traversedpath: WebAttribute<Account_Select, { traversedpath: string | null }, {  }>;
   utcconversiontimezonecode: WebAttribute<Account_Select, { utcconversiontimezonecode: number | null }, {  }>;
   versionnumber: WebAttribute<Account_Select, { versionnumber: number | null }, {  }>;
+  vnb_custom_field: WebAttribute<Account_Select, { vnb_custom_field: string | null }, {  }>;
   websiteurl: WebAttribute<Account_Select, { websiteurl: string | null }, {  }>;
 }
 interface Account_Filter {
@@ -476,6 +478,7 @@ interface Account_Filter {
   traversedpath: string;
   utcconversiontimezonecode: number;
   versionnumber: number;
+  vnb_custom_field: string;
   websiteurl: string;
 }
 interface Account_Expand {

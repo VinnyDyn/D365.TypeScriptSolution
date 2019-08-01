@@ -1,0 +1,21 @@
+22:28:37	Deploying WebResources
+22:28:37	Using Config 'C:\Users\vinicius.basile\Desktop\Git\D365.TypeScript\D365.TypeScript\WebResources'
+22:28:40	Creating Webresource 'js\AccountForm.js' -> 'vnb/js/AccountForm.js'
+22:33:40	Deploying WebResources
+22:33:40	Using Config 'C:\Users\vinicius.basile\Desktop\Git\D365.TypeScript\D365.TypeScript\WebResources'
+22:33:42	Updating Webresource 'js\AccountForm.js' -> 'vnb_/js/AccountForm.js'
+22:33:54	Adding to solution 'TypeScript'
+22:33:55	Deployed 1 webresource(s)
+22:33:55	Publishing 1 webresources...
+22:34:05	Publish complete.
+22:34:05	Processed 1 section(s)
+22:34:05	Processed 1 config(s)
+22:50:15	Deploying WebResources
+22:50:15	Using Config 'C:\Users\vinicius.basile\Desktop\Git\D365.TypeScript\D365.TypeScript\WebResources'
+22:50:17	Updating Webresource 'js\AccountForm.js' -> 'vnb_/js/AccountForm.js'
+22:50:20	Adding to solution 'TypeScript'
+22:50:20	Deployed 1 webresource(s)
+22:50:20	Publishing 1 webresources...
+22:50:26	Publish complete.
+22:50:26	Processed 1 section(s)
+22:50:26	Processed 1 config(s)

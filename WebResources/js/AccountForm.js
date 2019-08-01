@@ -7,6 +7,7 @@ var VinnyB;
         function onLoad(executionContext) {
             Form = executionContext.getFormContext();
             var name = Form.getAttribute("name").getValue();
+            var city = Form.getAttribute("address1_city").getValue();
         }
         AccountForm.onLoad = onLoad;
     })(AccountForm = VinnyB.AccountForm || (VinnyB.AccountForm = {}));
